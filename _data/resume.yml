@@ -7,10 +7,10 @@ contact:
   - icon: fa-phone-square
     text: +86 18742023963
   - icon: fa-globe
-    text: your-website.com
-    link: https://github.com/QixuanSun/resume/resume.html
+    text: GitPage
+    link: https://qixuansun.github.io/resume/resume.html
   - icon: fa-github
-    text: your-github
+    text: Qixuan Sun
     link: https://github.com/QixuanSun
 education:
   - university: Dalian University of Technology
