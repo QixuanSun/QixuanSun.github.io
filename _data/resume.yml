@@ -62,7 +62,6 @@ projects:
             Applied <b>Gini coefficient</b> on mining relevance between pupil performances and behaviors<br>
             Used <b>Support Vector Model</b> and <b>Random Forest</b> to build prediction model<br>
             Build a model of potentially poor students discovery based on <b>DBSCAN</b><br>
-            Developed a system for school precuation<br>
   - name: Students Selective Courses System with Java
     duration: Jul 2019 - Aug 2019
     contribution: Contributor.
