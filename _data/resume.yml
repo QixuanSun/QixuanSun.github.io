@@ -24,7 +24,7 @@ skills:
   - title: Programming Language
     items: Python, C++, Java, SQL, MatLab, LaTex
   - title: "Framework & Tools"
-    items: TensorFlow, Pandas, PyTorch, Git
+    items: TensorFlow, Pandas, Keras, Git
   - title: English Skills
     items: TOFEL(74), GRE()
 #experience:
@@ -44,8 +44,7 @@ projects:
   - name: Public Sentiment Analysis Based on Attention Mechanism
     description:
             Used <b>Request</b> to crawl Weibo Content<br>
-            Built a <b>CNN</b> and <b>Attention</b> model for Chinese benchmark datasets<br>
-            Transferred the model on training datasets and <b>fine-tuned</b><br>
+            Built a <b>CNN</b>, <b>LSTM</b> and <b>Attention</b> model for Chinese benchmark datasets<br>
             Analyzed resultes and presented a conclusion<br>
     contribution: Creator and main contributor.
     duration: Mar 2019 - Now
