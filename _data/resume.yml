@@ -43,32 +43,32 @@ skills:
 projects:
   - name: Public Sentiment Analysis Based on Attention Mechanism
     description:
-            Utilized <b>request</b> to crawl Weibo content<br>
-            Built <b>CNN</b>, <b>LSTM</b> and <b>Attention</b> models for Chinese benchmark datasets<br>
+            Utilized request to crawl Weibo content<br>
+            Built CNN, LSTM and Attention models for Chinese benchmark datasets<br>
             Analyzed resultes and presented a conclusion<br>
     contribution: Creator and main contributor.
     duration: Mar. 2019 - Present
   - name: House Price Prediction Based on Machine Learning
     description:
-            Used <b>feature extraction</b> and <b>scaling</b> on preprocessing<br>
-            Applied <b>XGBoost, Adaboost and RandomForest</b> to training data<br>
-            <b>Stacked</b> various models<br>
-            Achieved a RMSE of 1.95 and ranked 17 of 386.
+            Used feature extraction and scaling on preprocessing<br>
+            Applied XGBoost, Adaboost and RandomForest to training data<br>
+            Stacked various models<br>
+            Achieved a RMSE of 1.95 and ranked 17 of 386
     contribution: Creator and leader.
     duration: Nov. 2018 - Dec. 2018
   - name: Big Data Analysis of Campus
     duration: May 2019 - July 2012
     contribution: Creator and leader.
     description:
-            Excavated relevance between pupil performances and behaviors based on <b>Gini coefficient</b> and <b>Pearson correlation coefficient</b><br>
-            Applied <b>Support Vector Machine</b> and <b>RandomForest</b> to build a prediction model<br>
+            Excavated relevance between pupil performances and behaviors based on Gini coefficient and Pearson correlation coefficient<br>
+            Proposed a prediction model based on Support Vector Machine and RandomForest<br>
             Achieved a recall of 99.53% on training set and 71.62% on validation set<br>
-            Built a model of potentially poor students' discovery based on <b>DBSCAN</b><br>
+            Built a model of potentially poor students' discovery based on DBSCAN<br>
   - name: Students Selective Courses System with Java
     duration: July 2019 - Aug. 2019
     contribution: Contributor.
     description:
-            Used <b>ThreadPool</b> to achieve <b>multiple concurrency</b><br>
+            Applied ThreadPool to achieve multiple concurrency<br>
             Simulated a thousand students accessing the server at the same time<br>
 honors:
   - prize: Honorable Mention ,
