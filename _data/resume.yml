@@ -14,7 +14,7 @@ contact:
     link: https://github.com/QixuanSun
 education:
   - university: Dalian University of Technology
-    duration: Sep 2017 - Present
+    duration: Sept. 2017 - Present
     location: Dalian, Liaoning, China
     major: "Major: Software Engineering"
     GPA: "GPA: 3.75/4.0"
@@ -26,7 +26,7 @@ skills:
   - title: "Framework & Tools"
     items: TensorFlow, Pandas, Keras, Git
   - title: English Skills
-    items: TOFEL(74), GRE()
+    items: TOFEL(74)
 #experience:
 #  - title: Job Title 1
 #    duration: Apr 2016 - Now
@@ -43,50 +43,55 @@ skills:
 projects:
   - name: Public Sentiment Analysis Based on Attention Mechanism
     description:
-            Used <b>Request</b> to crawl Weibo Content<br>
-            Built a <b>CNN</b>, <b>LSTM</b> and <b>Attention</b> model for Chinese benchmark datasets<br>
+            Utilized <b>request</b> to crawl Weibo content<br>
+            Built <b>CNN</b>, <b>LSTM</b> and <b>Attention</b> models for Chinese benchmark datasets<br>
             Analyzed resultes and presented a conclusion<br>
     contribution: Creator and main contributor.
-    duration: Mar 2019 - Now
+    duration: Mar. 2019 - Present
   - name: House Price Prediction Based on Machine Learning
     description:
-            Used <b>Feature Extraction</b> and <b>Scaling</b> to get the features<br>
+            Used <b>feature extraction</b> and <b>scaling</b> on preprocessing<br>
             Applied <b>XGBoost, Adaboost and RandomForest</b> to training data<br>
-            Used <b>Stacking</b> to combine different Models<br>
+            <b>Stacked</b> various models<br>
+            Achieved a RMSE of 1.95 and ranked 17 of 386.
     contribution: Creator and leader.
-    duration: Nov 2018 - Dec 2018
+    duration: Nov. 2018 - Dec. 2018
   - name: Big Data Analysis of Campus
-    duration: May 2019 - Jul 2012
+    duration: May 2019 - July 2012
     contribution: Creator and leader.
     description:
-            Applied <b>Gini coefficient</b> on mining relevance between pupil performances and behaviors<br>
-            Used <b>Support Vector Model</b> and <b>Random Forest</b> to build prediction model<br>
-            Build a model of potentially poor students discovery based on <b>DBSCAN</b><br>
+            Excavated relevance between pupil performances and behaviors based on <b>Gini coefficient</b> and <b>Pearson correlation coefficient</b><br>
+            Applied <b>Support Vector Machine</b> and <b>RandomForest</b> to build a prediction model<br>
+            Achieved a recall of 99.53% on training set and 71.62% on validation set<br>
+            Built a model of potentially poor students' discovery based on <b>DBSCAN</b><br>
   - name: Students Selective Courses System with Java
-    duration: Jul 2019 - Aug 2019
+    duration: July 2019 - Aug. 2019
     contribution: Contributor.
     description:
             Used <b>ThreadPool</b> to achieve <b>multiple concurrency</b><br>
             Simulated a thousand students accessing the server at the same time<br>
 honors:
-  - prize: Honorable Mention
+  - prize: Honorable Mention ,
     name: Mathematical Contest in Modeling
     time: 2018
-  - prize: First Prize, Rank 17/386
+    institution: Consortium for Mathematics and Its Applications
+  - prize: First Prize , Rank 17/386 ,
     name: Big Data Algorithm Competition
     time: 2018
-  - prize: Rank 2/152
+    institution: China Software Industry Association Training Center
+  - prize: Rank 2/152 ,
     name: Big Data Contest in college in Dalian
     time: 2019
-  - prize: First Class Academic Scholarship
-    name: 2017 - 2018
-    time: 2018 - 2019
-  - prize: Innovation of Science and Technology Scholarship
-    name: 2017 - 2018
-    time: 2018 - 2019
+    institution: H3C and Dalian University of Technology
   - prize: National Scholarship
-    name: 2017 - 2018
-    time: 2018 - 2019
+    time: 2017 - 2018 , 2018 - 2019
+    institution: Ministry of Education of the People's Republic of China
+  - prize: First Class Academic Scholarship
+    time: 2017 - 2018 , 2018 - 2019
+    institution: Dalian University of Technology
+  - prize: Innovation of Science and Technology Scholarship
+    time: 2017 - 2018 , 2018 - 2019
+    institution: Dalian University of Technology
 
 languages:
   - name: English
