@@ -4,8 +4,6 @@ Gem::Specification.new do |spec|
   spec.authors                 = ["David Zhang"]
 
   spec.summary                 = %q{A minimalist resume template for Jekyll.}
-  spec.homepage                = "https://github.com/crispgm/resume"
-  spec.license                 = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
 
