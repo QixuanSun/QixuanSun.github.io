@@ -127,7 +127,10 @@ layout: default
               {% for honor in site.data.resume.honors %}
               <div class="block">
                   <div class="block-title">
-                      {{ honor.prize }} , {{honor.name}} , {{honor.time}}
+                      {{ honor.prize }}  {{honor.name}}
+                  </div>
+                  <div class="block-subtitle">
+                      {{ honor.time }} | {{ honor.institution }}
                   </div>
             </div>
             {% endfor %}
