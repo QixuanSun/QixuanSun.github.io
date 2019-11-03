@@ -48,6 +48,13 @@ projects:
             Analyzed resultes and presented a conclusion<br>
     contribution: Creator and main contributor.
     duration: Mar. 2019 - Present
+  - name: Judicial Sentencing Based on Natural Language Processing
+    description:
+            Segmented the information of cases and over-sampled on rare classes<br>
+            Proposed a classification model combined by fast-CNN, CNN, LSTM, CNN-LSTM and Attention-LSTM<br>
+            Achieved a f1-score of 95.8% on test set
+    contribution: Creator and leader.
+    duration: May 2019 - June 2019
   - name: House Price Prediction Based on Machine Learning
     description:
             Used feature extraction and scaling on preprocessing<br>
@@ -57,7 +64,7 @@ projects:
     contribution: Creator and leader.
     duration: Nov. 2018 - Dec. 2018
   - name: Big Data Analysis of Campus
-    duration: May 2019 - July 2012
+    duration: May 2019 - July 2019
     contribution: Creator and leader.
     description:
             Excavated relevance between pupil performances and behaviors based on Gini coefficient and Pearson correlation coefficient<br>
