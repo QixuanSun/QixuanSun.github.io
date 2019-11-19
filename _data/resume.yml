@@ -12,14 +12,16 @@ contact:
   - icon: fa-github
     text: Qixuan Sun
     link: https://github.com/QixuanSun
+
 education:
   - university: Dalian University of Technology
     duration: Sept. 2017 - Present
     location: Dalian, Liaoning, China
     major: "Major: Software Engineering"
     GPA: "GPA: 3.75/4.0"
-    major-GPA: "Major GPA: 3.85/4.0"
+    major-GPA: "Major GPA: 3.93/4.0"
     rank: "Rank: 12/405"
+
 skills:
   - title: Programming Language
     items: Python, C++, Java, SQL, MatLab, LaTex
@@ -27,33 +29,30 @@ skills:
     items: TensorFlow, Pandas, Keras, Git
   - title: English Skills
     items: TOFEL(74)
-#experience:
-#  - title: Job Title 1
-#    duration: Apr 2016 - Now
-#    company: Your 1st, Inc.
-#    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-#  - title: Job Title 2
-#    duration: Apr 2013 - Mar 2016
-#    company: Your 2nd, Inc.
-#    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-#  - title: Job Title 3
-#    duration: Dec 2011 - Mar 2012
-#    company: Your 3rd Co, Ltd.
-#    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-projects:
-  - name: Public Sentiment Analysis Based on Attention Mechanism
+
+research:
+  - name: Emotion Cause Extraction Based on Hierarchical PCNN
     description:
-            Utilized request to crawl Weibo content<br>
-            Built CNN, LSTM and Attention models for Chinese benchmark datasets<br>
-            Analyzed resultes and presented a conclusion<br>
-    contribution: Creator and main contributor.
-    duration: Mar. 2019 - Present
+            Built an emotion-cause extraction model based on hierarchical PCNN<br>
+            Annotated emotion to clause and group trained<br>
+            Applied varied sub-sampling method to balance negative samples
+    contribution: key member
+    duration: Oct. 2019 - Present
+  - name: Abstractive Summarization Based on Graph Neural Network
+    description:
+            Extracted keywords and sentences and built graph with PMI and TF-IDF algorithm<br>
+            Applied multi-layer GCN for intermediate representation and LSTM for decoder<br>
+            Trained on benchmark datasets like Gigaword and compared results with baselines
+    contribution: creator and main contributor
+    duration: Sept. 2019 - Present
+
+projects:
   - name: Judicial Sentencing Based on Natural Language Processing
     description:
             Segmented the information of cases and over-sampled on rare classes<br>
             Proposed a classification model combined by fast-CNN, CNN, LSTM, CNN-LSTM and Attention-LSTM<br>
-            Achieved a f1-score of 95.8% on test set
-    contribution: Creator and leader.
+           Achieved a f1-score of 95.8% on test set and ranked 2 of 50 teams
+    contribution: leader and main contributor
     duration: May 2019 - June 2019
   - name: House Price Prediction Based on Machine Learning
     description:
@@ -61,11 +60,11 @@ projects:
             Applied XGBoost, Adaboost and RandomForest to training data<br>
             Stacked various models<br>
             Achieved a RMSE of 1.95 and ranked 17 of 386
-    contribution: Creator and leader.
+    contribution: leader and main contributor
     duration: Nov. 2018 - Dec. 2018
   - name: Big Data Analysis of Campus
     duration: May 2019 - July 2019
-    contribution: Creator and leader.
+    contribution: leader and main contributor
     description:
             Excavated relevance between pupil performances and behaviors based on Gini coefficient and Pearson correlation coefficient<br>
             Proposed a prediction model based on Support Vector Machine and RandomForest<br>
@@ -73,35 +72,40 @@ projects:
             Built a model of potentially poor students' discovery based on DBSCAN<br>
   - name: Students Selective Courses System with Java
     duration: July 2019 - Aug. 2019
-    contribution: Contributor.
+    contribution: contributor
     description:
             Applied ThreadPool to achieve multiple concurrency<br>
             Simulated a thousand students accessing the server at the same time<br>
+
 honors:
+  - prize: National Scholarship
+    time: 2017 - 2018 , 2018 - 2019
+    institution: Ministry of Education of the People's Republic of China
+  - prize: Innovation of Science and Technology Scholarship
+    time: 2017 - 2018 , 2018 - 2019
+    institution: Dalian University of Technology
   - prize: Honorable Mention ,
     name: Mathematical Contest in Modeling
     time: 2018
     institution: Consortium for Mathematics and Its Applications
-  - prize: First Prize , Rank 17/386 ,
-    name: Big Data Algorithm Competition
-    time: 2018
-    institution: China Software Industry Association Training Center
   - prize: Rank 2/152 ,
     name: Big Data Contest in college in Dalian
     time: 2019
     institution: H3C and Dalian University of Technology
-  - prize: National Scholarship
-    time: 2017 - 2018 , 2018 - 2019
-    institution: Ministry of Education of the People's Republic of China
-  - prize: First Class Academic Scholarship
-    time: 2017 - 2018 , 2018 - 2019
-    institution: Dalian University of Technology
-  - prize: Innovation of Science and Technology Scholarship
-    time: 2017 - 2018 , 2018 - 2019
-    institution: Dalian University of Technology
 
-languages:
-  - name: English
-    proficiency: Work proficiency
-  - name: Mandarin Chinese
-    proficiency: Native
+overseas:
+  - name: The 5th Culture Exchanging Camp in America
+    description:
+            Interviewed American Universities including UCI, UCB and Stanford, and had a preliminary understanding of American culture and American higher education
+    duration: Jan. 2019 – Feb. 2019
+
+leaderships:
+  - name: Head of Mathematical Contest of Modeling Group
+    description:
+            Organizing weekly technical Salon and provided a regular communication for team members<br>
+            Constructing an open and harmonious academic environment
+    duration: Apr. 2019 – Present
+
+
+
+
