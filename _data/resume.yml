@@ -22,7 +22,7 @@ education:
     duration: Sept. 2017 - Jun. 2021
     location: Dalian, China
     major: "B.Sc. in Software Engineering"
-    GPA: "* GPA: 3.80/4.0, Major GPA: 3.93/4.0"
+    GPA: "* GPA: 3.80/4.0"
     rank: "* Rank: 5/405"
 
 
@@ -59,7 +59,7 @@ projects:
             2. Cropped detected regions from stage one and moved to RCNNs for classification<br>
             3. Visualized and analyzed bad cases with 3d slicer and used model ensemble for further improvement<br>
             4. Archived 1st in classification track and 5th in detection track (MICCAI 2020 RibFrac Challenge)
-    contribution: "Advisor: Prof Xiaohui Xie (UCIrvine)"
+    contribution: "Advisor: Prof. Xiaohui Xie (UCIrvine)"
     duration: Jun. 2020 - Sept. 2020
   - name: Judicial Sentencing Based on Natural Language Processing
     description:
@@ -96,8 +96,8 @@ overseas:
 leaderships:
   - name: Head of Mathematical Contest of Modeling Group
     description:
-            Organizing weekly technical Salon and provided a regular communication for team members<br>
-            Constructing an open and harmonious academic environment
+            1. Organizing weekly technical Salon and provided a regular communication for team members<br>
+            2. Constructing an open and harmonious academic environment
     duration: Apr. 2019 – May 2020
 
 
