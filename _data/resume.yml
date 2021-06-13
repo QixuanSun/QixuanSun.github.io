@@ -36,9 +36,9 @@ skills:
 
 
 research:
-  - name: "Thesis: Multi-Modal Image Segmentation Based on Deep Learning"
+  - name: "Thesis: Multi-Modal Medical Image Segmentation Based on Deep Learning"
     description:
-            1. Proposed a novel hybrid structure based on Transformers and CNNs for multi-modal image segmentation<br>
+            1. Proposed a novel hybrid structure based on Transformers and CNNs for multi-modal medical image segmentation<br>
             2. Explored how different parameters affected performance<br>
             3. Visualized results and analyzed how Transformers enhanced global features
     duration: Dec. 2020 - Jun. 2021
