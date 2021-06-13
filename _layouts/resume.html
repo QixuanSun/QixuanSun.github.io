@@ -100,27 +100,6 @@ layout: default
       </section>
 
       
-      <section id="overseas">
-          <div class="section-title">
-              OVERSEAS<br> EXPERIENCE
-          </div>
-          <div class="section-content">
-              {% for oversea in site.data.resume.overseas %}
-              <div class="block">
-                  <div class="block-title">
-                      {{ oversea.name }}
-                  </div>
-                  <div class="block-subtitle">
-                      {{ oversea.duration }}
-                  </div>
-                  <div class="block-content">
-                      {{ oversea.description }}
-                  </div>
-            </div>
-            {% endfor %}
-          </div>
-      </section>
-      
       <section id="honors">
           <div class="section-title">
               HONORS
@@ -133,27 +112,6 @@ layout: default
                   </div>
                   <div class="block-subtitle">
                       {{ honor.time }} | {{ honor.institution }}
-                  </div>
-              </div>
-              {% endfor %}
-          </div>
-      </section>
-      
-      <section id="leaderships">
-          <div class="section-title">
-              LEADERSHIP
-          </div>
-          <div class="section-content">
-              {% for leadership in site.data.resume.leaderships %}
-              <div class="block">
-                  <div class="block-title">
-                      {{ leadership.name }}
-                  </div>
-                  <div class="block-subtitle">
-                      {{ leadership.duration }}
-                  </div>
-                  <div class="block-content">
-                      {{ leadership.description }}
                   </div>
               </div>
               {% endfor %}
