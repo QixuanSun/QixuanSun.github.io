@@ -14,84 +14,78 @@ contact:
     link: https://github.com/QixuanSun
 
 education:
+  - university: University of Waterloo
+    duration: Sept. 2021 - Now
+    location: Waterloo, Canada
+    major: "M.Eng. in Electronic and Computer Engineering"
   - university: Dalian University of Technology
-    duration: Sept. 2017 - Present
-    location: Dalian, Liaoning, China
-    major: "Major: Software Engineering"
-    GPA: "GPA: 3.75/4.0"
-    major-GPA: "Major GPA: 3.93/4.0"
-    rank: "Rank: 12/405"
+    duration: Sept. 2017 - Jun. 2021
+    location: Dalian, China
+    major: "B.Sc. in Software Engineering"
+    GPA: "* GPA: 3.80/4.0, Major GPA: 3.93/4.0"
+    rank: "* Rank: 5/405"
+
 
 skills:
   - title: Programming Language
-    items: Python, C++, Java, SQL, MatLab, LaTex
+    items: Python, C++, SQL, LaTex, Java, MatLab
   - title: "Framework & Tools"
-    items: TensorFlow, Pandas, Keras, Git
+    items: Pytorch, TensorFlow, Pandas, Git
   - title: English Skills
-    items: TOFEL(74)
+    items: TOFEL(103, best score:109)
 
 research:
-  - name: Emotion Cause Extraction Based on Hierarchical PCNN
+  - name: "Thesis: Multi-Modal Image Segmentation Based on Deep Learning"
     description:
-            Built an emotion-cause extraction model based on hierarchical PCNN<br>
-            Annotated emotion to clause and group trained<br>
-            Applied varied sub-sampling method to balance negative samples
-    contribution: key member
-    duration: Oct. 2019 - Present
-  - name: Abstractive Summarization Based on Graph Neural Network
+            1. Proposed a novel hybrid structure based on Transformers and CNNs for multi-modal image segmentation<br>
+            2. Explored how different parameters affected performance<br>
+            3. Visualized results and analyzed how Transformers enhanced global features
+    duration: Dec. 2020 - Jun. 2021
+    contribution: "Advisor: Prof. Liang Zhao (DUT)"
+  - name: Emotion Cause Extraction Based on Attention Networks
     description:
-            Extracted keywords and sentences and built graph with PMI and TF-IDF algorithm<br>
-            Applied multi-layer GCN for intermediate representation and LSTM for decoder<br>
-            Trained on benchmark datasets like Gigaword and compared results with baselines
-    contribution: creator and main contributor
-    duration: Sept. 2019 - Present
+            1. Built an emotion-cause extraction model based on attention networks<br>
+            2. Proposed a novel attention network for combining contextual information and limiting deep imbalanced problem<br>
+            3. Explored how weighted loss functions in controlling error propagation of pipelines<br>
+            4. A [paper](https://arxiv.org/abs/2104.07221) accepted at IJCNN 2021
+    contribution: "Advisor: Prof. Hong Yu (DUT)"
+    duration: Oct. 2019 - Jun. 2020
+
 
 projects:
+  - name: Rib Fracture Detection and Classification
+    description:
+            1. Applied different strategy for stage one detection (3d Unet, 2d Unet for segmentation; RPN for detection)<br>
+            2. Cropped detected regions from stage one and moved to RCNNs for classification<br>
+            3. Visualized and analyzed bad cases with 3d slicer and used model ensemble for further improvement<br>
+            4. Archived 1st in classification track and 5th in detection track (MICCAI 2020 RibFrac Challenge)
+    contribution: "Advisor: Prof Xiaohui Xie (UCIrvine)"
+    duration: Jun. 2020 - Sept. 2020
   - name: Judicial Sentencing Based on Natural Language Processing
     description:
-            Segmented the information of cases and over-sampled on rare classes<br>
-            Proposed a classification model combined by fast-CNN, CNN, LSTM, CNN-LSTM and Attention-LSTM<br>
-           Achieved a f1-score of 95.8% on test set and ranked 2 of 50 teams
+            1. Segmented the information of cases and over-sampled on rare classes<br>
+            2. Proposed a classification model combined by fast-CNN, CNN, LSTM, CNN-LSTM and Attention-LSTM<br>
+           3. Achieved a f1-score of 95.8% on test set and ranked 2 of 50 teams
     contribution: leader and main contributor
-    duration: May 2019 - June 2019
-  - name: House Price Prediction Based on Machine Learning
-    description:
-            Used feature extraction and scaling on preprocessing<br>
-            Applied XGBoost, Adaboost and RandomForest to training data<br>
-            Stacked various models<br>
-            Achieved a RMSE of 1.95 and ranked 17 of 386
-    contribution: leader and main contributor
-    duration: Nov. 2018 - Dec. 2018
-  - name: Big Data Analysis of Campus
-    duration: May 2019 - July 2019
-    contribution: leader and main contributor
-    description:
-            Excavated relevance between pupil performances and behaviors based on Gini coefficient and Pearson correlation coefficient<br>
-            Proposed a prediction model based on Support Vector Machine and RandomForest<br>
-            Achieved a recall of 99.53% on training set and 71.62% on validation set<br>
-            Built a model of potentially poor students' discovery based on DBSCAN<br>
-  - name: Students Selective Courses System with Java
-    duration: July 2019 - Aug. 2019
-    contribution: contributor
-    description:
-            Applied ThreadPool to achieve multiple concurrency<br>
-            Simulated a thousand students accessing the server at the same time<br>
+    duration: May 2019 - Jun. 2019
+
 
 honors:
+  - prize: Outstanding Graduates of Liaoning Province
+    time: Jun. 2020
+    institution: Dalian University of Technology & Department of Education of Liaoning Province
+  - prize: Second-class Academic Scholarship
+    time: 2019 - 2020
+    institution: Dalian University of Technology
   - prize: National Scholarship
-    time: 2017 - 2018 , 2018 - 2019
+    time: 2017 - 2018, 2018 - 2019
     institution: Ministry of Education of the People's Republic of China
   - prize: Innovation of Science and Technology Scholarship
-    time: 2017 - 2018 , 2018 - 2019
+    time: 2017 - 2018, 2018 - 2019
     institution: Dalian University of Technology
-  - prize: Honorable Mention ,
-    name: Mathematical Contest in Modeling
-    time: 2018
-    institution: Consortium for Mathematics and Its Applications
-  - prize: Rank 2/152 ,
-    name: Big Data Contest in college in Dalian
-    time: 2019
-    institution: H3C and Dalian University of Technology
+  - prize: First-class Academic Scholarship
+    time: 2017 - 2018, 2018 - 2019
+    institution: Dalian University of Technology
 
 overseas:
   - name: The 5th Culture Exchanging Camp in America
@@ -104,7 +98,7 @@ leaderships:
     description:
             Organizing weekly technical Salon and provided a regular communication for team members<br>
             Constructing an open and harmonious academic environment
-    duration: Apr. 2019 – Present
+    duration: Apr. 2019 – May 2020
 
 
 
