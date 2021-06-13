@@ -45,7 +45,7 @@ research:
     contribution: "Advisor: Prof. Liang Zhao (DUT)"
   - name: Emotion Cause Extraction Based on Attention Networks
     description:
-            1. Built an emotion-cause extraction model based on attention networks<br>
+            1. Built an emotion-cause pair extraction model based on attention networks<br>
             2. Proposed a novel attention network for combining contextual information and limiting deep imbalanced problem<br>
             3. Explored how weighted loss functions in controlling error propagation of pipelines<br>
             4. A [paper](https://arxiv.org/abs/2104.07221) accepted at IJCNN 2021
