@@ -27,12 +27,13 @@ education:
 
 
 skills:
-  - title: Programming Language
-    items: Python, C++, SQL, LaTex, Java, MatLab
-  - title: "Framework & Tools"
-    items: Pytorch, TensorFlow, Pandas, Git
   - title: English Skills
     items: TOFEL(103, best score:109)
+  - title: "Framework & Tools"
+    items: Pytorch, TensorFlow, Pandas, Git
+  - title: Programming Language
+    items: Python, C++, SQL, LaTex, Java, MatLab
+
 
 research:
   - name: "Thesis: Multi-Modal Image Segmentation Based on Deep Learning"
