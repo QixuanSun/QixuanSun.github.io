@@ -60,7 +60,7 @@ projects:
             2. Cropped detected regions from stage one and moved to RCNNs for classification<br>
             3. Visualized and analyzed bad cases with 3d slicer and used model ensemble for further improvement<br>
             4. Achieved 1st in classification track and 5th in detection track (MICCAI 2020 RibFrac Challenge)
-    contribution: "Advisor: Prof. Xiaohui Xie (UCIrvine)"
+    contribution: "Advisor: Prof. Xiaohui Xie (UC Irvine)"
     duration: Jun. 2020 - Sept. 2020
   - name: Judicial Sentencing Based on Natural Language Processing
     description:
