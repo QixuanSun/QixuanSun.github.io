@@ -1,5 +1,5 @@
 title: Résumé
-name: Qixuan Sun
+name: Qixuan (Josh) Sun
 jobtitle: Your Job Title
 contact:
   - icon: fa-envelope
@@ -10,7 +10,7 @@ contact:
     text: GitPage
     link: https://qixuansun.github.io/resume/resume.html
   - icon: fa-github
-    text: Qixuan Sun
+    text: Qixuan (Josh) Sun
     link: https://github.com/QixuanSun
 
 education:
